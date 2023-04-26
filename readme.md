@@ -1,5 +1,6 @@
 # Description:  
-This project consist of 3 parts, client, main server, and the two backend servers.
+This project consist of 3 parts, client, main server, and the two backend servers.  
+  
 1.client.cpp: the user interface that accepts inputs and use them to send request to serverM, presents the corresponding time interval result. 
 Please notice that the client will always get response from serverM no matter there exist available time interval or not. The client will receive 
 a 'F' and it'll know no valid result within these user names and it'll print out corresponding message.  
