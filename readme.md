@@ -1,4 +1,4 @@
-** **Please contact me if you are interested in the source code** **
+** **Please contact me(weichieh@usc.edu) if you are interested in the source code** **
 
 
 # Description:  
